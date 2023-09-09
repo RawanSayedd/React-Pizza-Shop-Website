@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Pizza-Shop-Website/static/css/main.11111311.css",
+    "main.css": "/React-Pizza-Shop-Website/static/css/main.25fa934d.css",
     "main.js": "/React-Pizza-Shop-Website/static/js/main.4ac2a1d5.js",
     "static/js/787.44c24075.chunk.js": "/React-Pizza-Shop-Website/static/js/787.44c24075.chunk.js",
     "static/media/vegan.jpg": "/React-Pizza-Shop-Website/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
@@ -14,12 +14,12 @@
     "static/media/margherita.jpg": "/React-Pizza-Shop-Website/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
     "static/media/pedrotechspecial.jpg": "/React-Pizza-Shop-Website/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/React-Pizza-Shop-Website/index.html",
-    "main.11111311.css.map": "/React-Pizza-Shop-Website/static/css/main.11111311.css.map",
+    "main.25fa934d.css.map": "/React-Pizza-Shop-Website/static/css/main.25fa934d.css.map",
     "main.4ac2a1d5.js.map": "/React-Pizza-Shop-Website/static/js/main.4ac2a1d5.js.map",
     "787.44c24075.chunk.js.map": "/React-Pizza-Shop-Website/static/js/787.44c24075.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11111311.css",
+    "static/css/main.25fa934d.css",
     "static/js/main.4ac2a1d5.js"
   ]
 }
