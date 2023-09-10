@@ -50,5 +50,9 @@
 @media only screen and (max-width: 800px) {
   .menu-list {
     grid-template-columns: 1fr;
+    justify-content: center;
+  }
+  .menu {
+    padding: 100px 10px;
   }
 }

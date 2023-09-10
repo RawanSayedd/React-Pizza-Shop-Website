@@ -72,3 +72,13 @@ form button:hover {
   cursor: pointer;
   transition: 0.5s ease;
 }
+@media only screen and (max-width: 800px) {
+  .contact {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 100px 0px;
+  }
+  .contact .left-side {
+    height: 35vh;
+  }
+}
